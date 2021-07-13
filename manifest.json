@@ -4,7 +4,7 @@
   "version": "2.0",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en",
-  "homepage_url": "https://sites.google.com/site/linkgopher/",
+  "homepage_url": "https://kkp.disk.st/linkgopher.html",
 
   "icons": {
     "16": "icons/link-gopher-16.png",
@@ -14,7 +14,7 @@
 
   "applications": {
     "gecko": {
-      "id": "linkgopher@oooninja.com",
+      "id": "linkgopher@kkp.disk.st",
       "strict_min_version": "45.0"
     }
   },
